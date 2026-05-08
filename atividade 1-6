@@ -1,0 +1,7 @@
+1- É escrito "Olá Mundo" no console.
+2- O "Olá Mundo" e o "Como vai" ficam juntos no console.
+3- O "Olá Mundo" e o "Como vai" ficam separadas por causa do "\n".
+4- Aparece no console um lugar para poder escrever uma palavra/frase e depois repete a mesma palavra/frase que você escreveu.
+5- (a) Primeiro aparece no console o numero 123 depois vai para a linha de baixo e aparece o numero 300 e depois na linha de baixo aparece a conta 100 + 200.
+   (b) A linha 6 faz a conta que ta pedindo e na linha 7 por conta das aspas o codigo nao resolve a conta somente escreve os numeros no console.
+6- Somente apareceu a frase "Maior de idade" porque em nenhum momento foi pedido pra colocar a sua idade.
